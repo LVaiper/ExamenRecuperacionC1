@@ -1,5 +1,7 @@
 package com.example.recuperaion;
 
+import java.util.Random;
+
 public class cotizacion {
 
     private int folio;

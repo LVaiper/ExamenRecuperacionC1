@@ -13,10 +13,7 @@
         android:theme="@style/Theme.Recuperaion"
         tools:targetApi="31">
         <activity
-            android:name=".cotizazion"
-            android:exported="false" />
-        <activity
-            android:name=".cotizacion"
+            android:name=".Cotizacion_Activity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
